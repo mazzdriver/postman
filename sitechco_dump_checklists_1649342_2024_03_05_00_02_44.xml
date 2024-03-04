@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<data>
+  <checklist>
+    <item0>
+      <id><![CDATA[1649342]]></id>
+      <project_id><![CDATA[49300]]></project_id>
+      <name><![CDATA[Телеграм каналы]]></name>
+      <description><![CDATA[Чек-листы для проверки функционала телеграм-каналов]]></description>
+      <abbreviation><![CDATA[ТГК]]></abbreviation>
+      <regularity_id><![CDATA[1]]></regularity_id>
+      <is_deleted><![CDATA[]]></is_deleted>
+      <status><![CDATA[2]]></status>
+      <completed><![CDATA[100]]></completed>
+      <type_id><![CDATA[2]]></type_id>
+      <use_tags><![CDATA[0]]></use_tags>
+      <parent><![CDATA[0]]></parent>
+      <is_folder><![CDATA[0]]></is_folder>
+      <child><![CDATA[0]]></child>
+      <versionof><![CDATA[0]]></versionof>
+      <creator><![CDATA[0]]></creator>
+      <sort><![CDATA[0]]></sort>
+      <complexity><![CDATA[0.00]]></complexity>
+      <is_template><![CDATA[0]]></is_template>
+      <created_at><![CDATA[2024-03-04 22:58:19]]></created_at>
+      <updated_at><![CDATA[2024-03-05 00:02:32]]></updated_at>
+    </item0>
+  </checklist>
+
+  <checklistGroup>
+    <item0>
+      <id><![CDATA[9765088]]></id>
+      <checklist_id><![CDATA[1649342]]></checklist_id>
+      <name><![CDATA[Контекстное меню без комментариев открытый]]></name>
+      <description><![CDATA[Проверка взаимодействия с постом в публичном канале без возможности комментировать посты в канале]]></description>
+      <sort><![CDATA[1]]></sort>
+      <type><![CDATA[0]]></type>
+    </item0>
+  </checklistGroup>
+
+  <requirementLinks/>
+
+  <checklistOption>
+    <item0>
+      <id><![CDATA[59661294]]></id>
+      <tid><![CDATA[ТГК1]]></tid>
+      <checklistGroupId><![CDATA[9765088]]></checklistGroupId>
+      <action><![CDATA[Ответить]]></action>
+      <result><![CDATA[Предлагается выбрать получателя, в т.ч. "Избранное"]]></result>
+      <priorityId><![CDATA[2]]></priorityId>
+      <sort><![CDATA[1]]></sort>
+      <todoStatus><![CDATA[0]]></todoStatus>
+    </item0>
+
+    <item1>
+      ...
+    </item1>
+
+    <item5>
+      ...
+    </item5>
+  </checklistOption>
+
+  <checklistOptionTag/>
+
+  <tag/>
+
+  <requirement/>
+</data>
